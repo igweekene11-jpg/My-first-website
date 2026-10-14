@@ -1,0 +1,71 @@
+body {
+    background-color: blue;
+}
+
+.nav-container a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-container {
+    display: flex;
+    align-items: center;
+    padding-block: 30px;
+    justify-content: space-between;
+}
+
+.menu-con {
+    display: flex;
+    gap: 30px;
+}
+
+.get-started-btn {
+    border: 1px solid rgb(74, 74, 255);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.menu-btn-con {
+    display: flex;
+    gap: 30px;
+    width: 20%;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.logo-con {
+    width: 20%;
+
+}
+
+.hero-con {
+    text-align: center;
+}
+
+.hero-title {
+    color: white;
+    font-size: 60px
+}
+
+.hero-title span {
+    color: red;
+}
+
+.hero-paragraph {
+    color: white;
+}
+
+.hero-form input {
+    height: 40px;
+    border-radius: 8px;
+     border: none;
+    width: 300px;
+}
+
+.hero-form button {
+    height: 40px;
+    background-color: lightblue;
+    border: none;
+    width: 120px;
+    border-radius: 8px;
+}

@@ -1,0 +1,8 @@
+li {
+    text-transform: capitalize;
+
+}
+li:nth-child(1){
+    front-family:cursive
+    background-color rgb(55, 204, 55)
+}

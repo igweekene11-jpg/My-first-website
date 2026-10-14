@@ -1,0 +1,15 @@
+.child{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.parent{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+.children{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(151, 97, 26);
+}
